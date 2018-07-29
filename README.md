@@ -1,8 +1,10 @@
 # ZombieArena-java-shooter
 
+Zombie arena is a shooter game made in Java.
+
+
 ![alt text](https://github.com/rubenbase/ZombieArena-java-shooter/blob/master/android/assets/fondopresentacion.png)
 
-Zombie arena is a shooter game made in Java.
 
 
 # How to play
