@@ -10,4 +10,4 @@ Zombie arena is a shooter game made in Java.
 # How to play
 
 You will be in a sandbox world where zombies will spawn close to you. You must kill them before they kill you, enemies sometimes drop ammo and health. You have multiple weapons, chose your favourite and good luck beating your best score! 
-a
+
